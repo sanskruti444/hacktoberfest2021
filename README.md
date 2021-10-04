@@ -32,13 +32,15 @@ Not everyone is aware of every tool present in the world no matter how easy or c
 use the below code :
 make a file in json format.
 
+```json
 {
     "Name":"Rahul Mishra",
-    "Occupation":"STUDENT - IT",
+    "Occupation":"Devloper",
     "UserName" : "rahull888",
     "StarredTheRepo":true,
-    "FavouriteQuote":"Belive and have unwaver faith on mother-nature"
+    "FavouriteQuote":"Belive in mother nature"
 }
+```   
 
 # Congratulations!
 
